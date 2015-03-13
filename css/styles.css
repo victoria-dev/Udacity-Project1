@@ -1,0 +1,21 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #223e70;
+	font-weight: 400;
+}
+.text-heading {
+	font-family: 'Oswald', sans-serif;
+}
+.text-muted {
+	color: #BCBBBB;
+}
+.title-super {
+	font-size: 50px;
+}
+.title-logo {
+	margin-top: 20px;
+}
+hr {
+	border-color: #BCBBBB;
+	border-width: 1px 0;
+}
